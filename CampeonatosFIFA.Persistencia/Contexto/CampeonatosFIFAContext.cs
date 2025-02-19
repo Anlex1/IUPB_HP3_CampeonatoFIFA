@@ -28,12 +28,16 @@ namespace CampeonatosFIFA.Persistencia.Contexto
 
         void onModeCreating(ModelBuilder builder)
         {
+            //------------------------
+            
+            // Campo Seleccion
             builder.Entity<Seleccion>(entidad =>
             {
                 entidad.HasKey(e => e.Id);
                 entidad.HasIndex(e => e.Nombre).IsUnique();
             });
 
+            // Campo Campeonato
             builder.Entity<Campeonato>(entidad =>
             {
                 entidad.HasKey(e => e.Id);
@@ -44,6 +48,69 @@ namespace CampeonatosFIFA.Persistencia.Contexto
                 .HasOne(e => e.PaisOrganizador)
                 .WithMany()
                 .HasForeignKey(e => e.IdSeleccion);
+
+            // Campo Ciudad
+            builder.Entity<Ciudad>(entidad =>
+            {
+                entidad.HasKey(e => e.Id);
+                entidad.HasIndex(e => e.Nombre).IsUnique();
+            });
+
+            builder.Entity<Ciudad>()
+                .HasOne(e => e.Pais)
+                .WithMany()
+                .HasForeignKey(e => e.IdPais);
+
+            //Campo Grupo
+            builder.Entity<Grupo>(entidad => 
+            {
+                entidad.HasKey(e => e.Id);
+                entidad.HasIndex(e => e.Nombre).IsUnique();
+            });
+
+            builder.Entity<Grupo>()
+                .HasOne(e => e.Campeonato)
+                .WithMany()
+                .HasForeignKey(e => e.IdCampeonato);
+
+            // Campo Estadio
+            builder.Entity<Estadio>(entidad =>
+            {
+                entidad.HasKey(e => e.Id);
+                entidad.HasIndex(e => e.Nombre).IsUnique();
+            });
+
+            builder.Entity<Estadio>()
+                .HasOne(e => e.Ciudad)
+                .WithMany()
+                .HasForeignKey(e => e.IdCiudad);
+
+            // Campo Grupo Pais
+            builder.Entity<GrupoPais>()
+                .HasOne(e => e.Pais)
+                .WithMany()
+                .HasForeignKey(e => e.IdPais);
+
+            builder.Entity<GrupoPais>()
+                .HasOne(e => e.Grupo)
+                .WithMany()
+                .HasForeignKey(e => e.IdGrupo);
+
+            // Campo Fase
+            builder.Entity<Fase>(entidad =>
+            {
+                entidad.HasKey(e => e.Id);
+                entidad.HasIndex(e => e.Nombre).IsUnique();
+            });
+
+            // Campo Encuentro
+            builder.Entity<Encuentro>(entidad =>
+                {
+                    entidad.HasKey(e => e.Id);
+                    entidad.HasIndex(e => e.Id);
+                
+                });
+            //----------------------------------
         }
     }
 }
