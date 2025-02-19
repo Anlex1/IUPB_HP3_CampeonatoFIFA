@@ -105,11 +105,30 @@ namespace CampeonatosFIFA.Persistencia.Contexto
 
             // Campo Encuentro
             builder.Entity<Encuentro>(entidad =>
-                {
-                    entidad.HasKey(e => e.Id);
-                    entidad.HasIndex(e => e.Id);
-                
-                });
+{
+    entidad.HasKey(e => e.Id);
+
+    entidad.HasOne(e => e.Seleccion1)
+        .WithMany()
+        .HasForeignKey(e => e.IdPais1);
+
+    entidad.HasOne(e => e.Seleccion2)
+        .WithMany()
+        .HasForeignKey(e => e.IdPais2);
+
+    entidad.HasOne(e => e.Estadio)
+        .WithMany()
+        .HasForeignKey(e => e.IdEstadio);
+
+    entidad.HasOne(e => e.Fase)
+        .WithMany()
+        .HasForeignKey(e => e.IdFase);
+
+    entidad.HasOne(e => e.Campeonato)
+        .WithMany()
+        .HasForeignKey(e => e.IdCampeonato);
+});
+
             //----------------------------------
         }
     }
