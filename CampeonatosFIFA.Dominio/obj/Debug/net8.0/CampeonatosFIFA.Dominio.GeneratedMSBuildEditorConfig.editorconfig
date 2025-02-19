@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CampeonatosFIFA.Dominio
-build_property.ProjectDir = C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Dominio\
+build_property.ProjectDir = C:\Users\Natalia Zabaleta\source\repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Dominio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
