@@ -5,7 +5,9 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Dominio", "CampeonatosFIFA.Dominio\CampeonatosFIFA.Dominio.csproj", "{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampeonatosFIFA.Persistencia", "CampeonatosFIFA.Persistencia\CampeonatosFIFA.Persistencia.csproj", "{23056D99-200B-4E2F-8991-1AABFE7E38C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Persistencia", "CampeonatosFIFA.Persistencia\CampeonatosFIFA.Persistencia.csproj", "{23056D99-200B-4E2F-8991-1AABFE7E38C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampeonatosFIFA.Core", "CampeonatosFIFA.Core\CampeonatosFIFA.Core.csproj", "{72A441A7-4D2D-4F82-8918-F15C12984D2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{23056D99-200B-4E2F-8991-1AABFE7E38C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23056D99-200B-4E2F-8991-1AABFE7E38C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23056D99-200B-4E2F-8991-1AABFE7E38C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A441A7-4D2D-4F82-8918-F15C12984D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A441A7-4D2D-4F82-8918-F15C12984D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A441A7-4D2D-4F82-8918-F15C12984D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A441A7-4D2D-4F82-8918-F15C12984D2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

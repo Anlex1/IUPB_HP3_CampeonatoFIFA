@@ -86,6 +86,11 @@ namespace CampeonatosFIFA.Persistencia.Contexto
                 .HasForeignKey(e => e.IdCiudad);
 
             // Campo Grupo Pais
+            builder.Entity<GrupoPais>(entidad =>
+            {
+                entidad.HasKey(e => new { e.IdGrupo, e.IdPais });
+            });
+
             builder.Entity<GrupoPais>()
                 .HasOne(e => e.Pais)
                 .WithMany()
@@ -103,7 +108,7 @@ namespace CampeonatosFIFA.Persistencia.Contexto
                 entidad.HasIndex(e => e.Nombre).IsUnique();
             });
 
-            // Campo Encuentro
+            // Campo Encuentro 
             builder.Entity<Encuentro>(entidad =>
             {
             entidad.HasKey(e => e.Id);
