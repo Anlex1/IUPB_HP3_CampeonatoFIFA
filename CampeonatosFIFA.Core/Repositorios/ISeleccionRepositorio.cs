@@ -9,7 +9,7 @@ namespace CampeonatosFIFA.Core.Repositorios
 {
     public interface ISeleccionRepositorio
     {
-        Task<IEnumerable<Seleccion>> ObetenerTodos();
+        Task<IEnumerable<Seleccion>> ObtenerTodos();
         Task<Seleccion> Obtener(int Id);
         Task<Seleccion> Agregar(Seleccion Seleccion);
         Task<Seleccion> Modificar(Seleccion seleccion);

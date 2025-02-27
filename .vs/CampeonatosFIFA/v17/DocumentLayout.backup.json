@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FEE8E20-ED55-4313-943A-00E557802B9F}|CampeonatosFIFA.Aplicacion\\CampeonatosFIFA.Aplicacion.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.aplicacion\\seleccionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8E20-ED55-4313-943A-00E557802B9F}|CampeonatosFIFA.Aplicacion\\CampeonatosFIFA.Aplicacion.csproj|solutionrelative:campeonatosfifa.aplicacion\\seleccionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C207A37D-7FEF-471D-9FD3-4CDE0ED47B37}|CampeonatoFIFA.Infraestructura.Repositorios\\CampeonatoFIFA.Infraestructura.Repositorios.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatofifa.infraestructura.repositorios\\seleccionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C207A37D-7FEF-471D-9FD3-4CDE0ED47B37}|CampeonatoFIFA.Infraestructura.Repositorios\\CampeonatoFIFA.Infraestructura.Repositorios.csproj|solutionrelative:campeonatofifa.infraestructura.repositorios\\seleccionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72A441A7-4D2D-4F82-8918-F15C12984D2E}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.core\\repositorios\\iseleccionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72A441A7-4D2D-4F82-8918-F15C12984D2E}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|solutionrelative:campeonatosfifa.core\\repositorios\\iseleccionrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72A441A7-4D2D-4F82-8918-F15C12984D2E}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.core\\campeonatosfifa.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{72A441A7-4D2D-4F82-8918-F15C12984D2E}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|solutionrelative:campeonatosfifa.core\\campeonatosfifa.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{72A441A7-4D2D-4F82-8918-F15C12984D2E}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.core\\servicios\\iseleccionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A441A7-4D2D-4F82-8918-F15C12984D2E}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|solutionrelative:campeonatosfifa.core\\servicios\\iseleccionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23056D99-200B-4E2F-8991-1AABFE7E38C6}|CampeonatosFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.persistencia\\contexto\\campeonatosfifacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23056D99-200B-4E2F-8991-1AABFE7E38C6}|CampeonatosFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj|solutionrelative:campeonatosfifa.persistencia\\contexto\\campeonatosfifacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.dominio\\entidades\\grupopais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\grupopais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.dominio\\entidades\\encuentro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\encuentro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.dominio\\entidades\\estadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\estadio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.dominio\\entidades\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.dominio\\entidades\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.dominio\\entidades\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.dominio\\entidades\\fase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\fase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.dominio\\entidades\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A935D5EA-6B4A-4D95-87A5-CF68BC4C6FBF}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\entidades\\campeonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\Contexto\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CampeonatosFIFA.Persistencia\\Contexto\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72A441A7-4D2D-4F82-8918-F15C12984D2E}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|c:\\users\\natalia zabaleta\\source\\repos\\iupb_hp3_campeonatofifa\\campeonatosfifa.core\\repositorios\\icampeonatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A441A7-4D2D-4F82-8918-F15C12984D2E}|CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj|solutionrelative:campeonatosfifa.core\\repositorios\\icampeonatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,149 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SeleccionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Aplicacion\\SeleccionServicio.cs",
+              "RelativeDocumentMoniker": "CampeonatosFIFA.Aplicacion\\SeleccionServicio.cs",
+              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Aplicacion\\SeleccionServicio.cs",
+              "RelativeToolTip": "CampeonatosFIFA.Aplicacion\\SeleccionServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:17:29.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISeleccionServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\Servicios\\ISeleccionServicio.cs",
+              "RelativeDocumentMoniker": "CampeonatosFIFA.Core\\Servicios\\ISeleccionServicio.cs",
+              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\Servicios\\ISeleccionServicio.cs",
+              "RelativeToolTip": "CampeonatosFIFA.Core\\Servicios\\ISeleccionServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:08:26.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ISeleccionRepositorio.cs",
               "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\Repositorios\\ISeleccionRepositorio.cs",
               "RelativeDocumentMoniker": "CampeonatosFIFA.Core\\Repositorios\\ISeleccionRepositorio.cs",
               "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\Repositorios\\ISeleccionRepositorio.cs",
               "RelativeToolTip": "CampeonatosFIFA.Core\\Repositorios\\ISeleccionRepositorio.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T14:11:20.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T13:55:19.436Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CampeonatosFIFA.Core",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj",
-              "RelativeToolTip": "CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-20T14:05:41.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\Contexto\\Class1.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Persistencia\\Contexto\\Class1.cs",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\Contexto\\Class1.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Persistencia\\Contexto\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Title": "SeleccionRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatoFIFA.Infraestructura.Repositorios\\SeleccionRepositorio.cs",
+              "RelativeDocumentMoniker": "CampeonatoFIFA.Infraestructura.Repositorios\\SeleccionRepositorio.cs",
+              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatoFIFA.Infraestructura.Repositorios\\SeleccionRepositorio.cs",
+              "RelativeToolTip": "CampeonatoFIFA.Infraestructura.Repositorios\\SeleccionRepositorio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:17:40.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GrupoPais.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\GrupoPais.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\GrupoPais.cs",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\GrupoPais.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\GrupoPais.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:14:36.01Z"
+              "WhenOpened": "2025-02-25T13:37:41.035Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Encuentro.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Encuentro.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Encuentro.cs",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Encuentro.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Encuentro.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA8wCoAAAAIAAAAAAAAAA==",
+              "Title": "ICampeonatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\Repositorios\\ICampeonatoRepositorio.cs",
+              "RelativeDocumentMoniker": "CampeonatosFIFA.Core\\Repositorios\\ICampeonatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\Repositorios\\ICampeonatoRepositorio.cs",
+              "RelativeToolTip": "CampeonatosFIFA.Core\\Repositorios\\ICampeonatoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:12:12.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Fase.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Fase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:10:31.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Grupo.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Grupo.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Grupo.cs",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Grupo.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Grupo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:09:50.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Estadio.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Estadio.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Estadio.cs",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Estadio.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Estadio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:07:42.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Ciudad.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Ciudad.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Ciudad.cs",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Ciudad.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Ciudad.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T14:06:54.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Campeonato.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Campeonato.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Campeonato.cs",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Campeonato.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Campeonato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T13:48:14.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Seleccion.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Seleccion.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Entidades\\Seleccion.cs",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\Entidades\\Seleccion.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Entidades\\Seleccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T13:30:52.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CampeonatosFIFAContext.cs",
-              "DocumentMoniker": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\Contexto\\CampeonatosFIFAContext.cs",
-              "RelativeDocumentMoniker": "CampeonatosFIFA.Persistencia\\Contexto\\CampeonatosFIFAContext.cs",
-              "ToolTip": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\Contexto\\CampeonatosFIFAContext.cs",
-              "RelativeToolTip": "CampeonatosFIFA.Persistencia\\Contexto\\CampeonatosFIFAContext.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAkwHEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:30:27.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T13:36:38.121Z"
             }
           ]
         }

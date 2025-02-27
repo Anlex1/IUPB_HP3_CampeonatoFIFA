@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj": {}
+    "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj": {
+    "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj",
         "projectName": "CampeonatosFIFA.Core",
-        "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj",
+        "projectPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj",
         "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\obj\\",
+        "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Natalia Zabaleta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj"
+              "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj": {
+    "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj",
         "projectName": "CampeonatosFIFA.Dominio",
-        "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj",
+        "projectPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj",
         "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Natalia Zabaleta\\AppData\\Roaming\\NuGet\\NuGet.Config",
