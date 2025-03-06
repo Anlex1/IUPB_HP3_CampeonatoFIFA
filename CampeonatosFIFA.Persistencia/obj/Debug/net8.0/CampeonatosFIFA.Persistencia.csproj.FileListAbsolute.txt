@@ -1,0 +1,16 @@
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\bin\Debug\net8.0\CampeonatosFIFA.Persistencia.deps.json
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\bin\Debug\net8.0\CampeonatosFIFA.Persistencia.dll
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\bin\Debug\net8.0\CampeonatosFIFA.Persistencia.pdb
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\bin\Debug\net8.0\CampeonatosFIFA.Dominio.dll
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\bin\Debug\net8.0\CampeonatosFIFA.Dominio.pdb
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.csproj.AssemblyReference.cache
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.AssemblyInfo.cs
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.sourcelink.json
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\Campeona.7A2FB068.Up2Date
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.dll
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\refint\CampeonatosFIFA.Persistencia.dll
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.pdb
+C:\Users\Natalia Zabaleta\Source\Repos\IUPB_HP3_CampeonatoFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\ref\CampeonatosFIFA.Persistencia.dll

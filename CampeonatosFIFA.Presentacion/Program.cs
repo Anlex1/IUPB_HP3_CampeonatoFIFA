@@ -1,4 +1,6 @@
 
+using CampeonatosFIFA.Presentacion.DI;
+
 namespace CampeonatosFIFA.Presentacion
 {
     public class Program
@@ -8,6 +10,9 @@ namespace CampeonatosFIFA.Presentacion
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            var configuracion = builder.Configuration;
+
+            builder.Services.AgregarDependencias(configuracion);
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

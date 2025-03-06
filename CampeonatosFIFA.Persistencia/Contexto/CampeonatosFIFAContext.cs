@@ -23,7 +23,7 @@ namespace CampeonatosFIFA.Persistencia.Contexto
         public DbSet<Estadio> Estadios { get; set; }
         public DbSet<Fase> Fases { get; set; }
         public DbSet<Grupo> Grupos { get; set; }
-        public DbSet<GrupoPais> GruposPaises { get; set; }
+        //public DbSet<GrupoPais> GruposPaises { get; set; }
 
 
         void onModeCreating(ModelBuilder builder)
@@ -84,6 +84,7 @@ namespace CampeonatosFIFA.Persistencia.Contexto
                 .HasOne(e => e.Ciudad)
                 .WithMany()
                 .HasForeignKey(e => e.IdCiudad);
+            
 
             // Campo Grupo Pais
             builder.Entity<GrupoPais>(entidad =>
@@ -92,17 +93,19 @@ namespace CampeonatosFIFA.Persistencia.Contexto
             });
 
             builder.Entity<GrupoPais>()
+            .HasOne(e => e.Grupo)
+            .WithMany()
+            .HasForeignKey(e => e.IdGrupo);
+
+            builder.Entity<GrupoPais>()
                 .HasOne(e => e.Pais)
                 .WithMany()
                 .HasForeignKey(e => e.IdPais);
 
-            builder.Entity<GrupoPais>()
-                .HasOne(e => e.Grupo)
-                .WithMany()
-                .HasForeignKey(e => e.IdGrupo);
-
-            // Campo Fase
-            builder.Entity<Fase>(entidad =>
+        
+            
+        // Campo Fase
+        builder.Entity<Fase>(entidad =>
             {
                 entidad.HasKey(e => e.Id);
                 entidad.HasIndex(e => e.Nombre).IsUnique();
