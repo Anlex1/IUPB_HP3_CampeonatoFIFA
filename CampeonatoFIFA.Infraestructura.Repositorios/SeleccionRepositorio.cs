@@ -17,24 +17,47 @@ namespace CampeonatoFIFA.Infraestructura.Repositorios
         {
             this.context = context;
         }
-        public Task<Seleccion> Agregar(Seleccion Seleccion)
+        public async Task<Seleccion> Agregar(Seleccion Seleccion)
         {
-            throw new NotImplementedException();
+            context.Selecciones.Add(Seleccion);
+            await context.SaveChangesAsync();
+            return Seleccion;
         }
 
-        public Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato)
+        public async Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato)
         {
-            throw new NotImplementedException();
+            return await context.Selecciones.Where(item => (Tipo == 0 && item.Nombre.Contains(Dato))||
+            (Tipo == 1 && item.Entidad.Contains(Dato))).ToListAsync();
         }
 
-        public Task<bool> Eliminar(int Id)
+        public async Task<bool> Eliminar(int Id)
         {
-            throw new NotImplementedException();
+            var seleccionexistente = await context.Selecciones.FindAsync(Id);
+            if (seleccionexistente == null)
+            {
+                return false;
+            }
+            try
+            {
+                context.Selecciones.Remove(seleccionexistente);
+                await context.SaveChangesAsync();
+                return true;
+            } catch (Exception ex)
+            {
+                return false;
+            }
         }
 
-        public Task<Seleccion> Modificar(Seleccion seleccion)
+        public async Task<Seleccion> Modificar(Seleccion Seleccion)
         {
-            throw new NotImplementedException();
+            var seleccionexistente = await context.Selecciones.FindAsync(Seleccion.Id);
+            if (seleccionexistente == null)
+            {
+                return null;
+            }
+            context.Entry(seleccionexistente).CurrentValues.SetValues(Seleccion);
+            await context.SaveChangesAsync();
+            return await context.Selecciones.FindAsync(Seleccion.Id);
         }
 
         public async Task<IEnumerable<Seleccion>> ObtenerTodos()
