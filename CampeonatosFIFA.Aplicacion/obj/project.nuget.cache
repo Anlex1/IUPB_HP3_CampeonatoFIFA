@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gNruef+0Fuk=",
+  "dgSpecHash": "gO8WAadl5Yk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Aplicacion\\CampeonatosFIFA.Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Aplicacion\\CampeonatosFIFA.Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

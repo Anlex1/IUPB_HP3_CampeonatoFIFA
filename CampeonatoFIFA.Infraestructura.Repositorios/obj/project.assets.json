@@ -2868,9 +2868,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatoFIFA.Infraestructura.Repositorios\\CampeonatoFIFA.Infraestructura.Repositorios.csproj",
+      "projectUniqueName": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatoFIFA.Infraestructura.Repositorios\\CampeonatoFIFA.Infraestructura.Repositorios.csproj",
       "projectName": "CampeonatoFIFA.Infraestructura.Repositorios",
-      "projectPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatoFIFA.Infraestructura.Repositorios\\CampeonatoFIFA.Infraestructura.Repositorios.csproj",
+      "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatoFIFA.Infraestructura.Repositorios\\CampeonatoFIFA.Infraestructura.Repositorios.csproj",
       "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatoFIFA.Infraestructura.Repositorios\\obj\\",
       "projectStyle": "PackageReference",
@@ -2893,14 +2893,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj": {
-              "projectPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj"
+            "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj": {
+              "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj"
             },
-            "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj"
+            "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj"
             },
-            "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj"
+            "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj"
             }
           }
         }

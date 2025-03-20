@@ -1,5 +1,6 @@
 ﻿using CampeonatosFIFA.Dominio.Entidades;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,10 +24,10 @@ namespace CampeonatosFIFA.Persistencia.Contexto
         public DbSet<Estadio> Estadios { get; set; }
         public DbSet<Fase> Fases { get; set; }
         public DbSet<Grupo> Grupos { get; set; }
-        //public DbSet<GrupoPais> GruposPaises { get; set; }
+        public DbSet<GrupoPais> GruposPaises { get; set; }
 
 
-        void onModeCreating(ModelBuilder builder)
+        protected override void OnModelCreating(ModelBuilder builder)
         {
             //------------------------
             
@@ -53,7 +54,7 @@ namespace CampeonatosFIFA.Persistencia.Contexto
             builder.Entity<Ciudad>(entidad =>
             {
                 entidad.HasKey(e => e.Id);
-                entidad.HasIndex(e => e.Nombre).IsUnique();
+                entidad.HasIndex(e => new {e.IdPais, e.Nombre}).IsUnique();
             });
 
             builder.Entity<Ciudad>()
@@ -65,7 +66,7 @@ namespace CampeonatosFIFA.Persistencia.Contexto
             builder.Entity<Grupo>(entidad => 
             {
                 entidad.HasKey(e => e.Id);
-                entidad.HasIndex(e => e.Nombre).IsUnique();
+                entidad.HasIndex(e => new { e.IdCampeonato, e.Nombre}).IsUnique();
             });
 
             builder.Entity<Grupo>()
@@ -105,7 +106,7 @@ namespace CampeonatosFIFA.Persistencia.Contexto
         
             
         // Campo Fase
-        builder.Entity<Fase>(entidad =>
+            builder.Entity<Fase>(entidad =>
             {
                 entidad.HasKey(e => e.Id);
                 entidad.HasIndex(e => e.Nombre).IsUnique();
@@ -115,26 +116,22 @@ namespace CampeonatosFIFA.Persistencia.Contexto
             builder.Entity<Encuentro>(entidad =>
             {
             entidad.HasKey(e => e.Id);
-
-            entidad.HasOne(e => e.Pais1)
-            .WithMany()
-            .HasForeignKey(e => e.IdPais1);
-
-            entidad.HasOne(e => e.Pais2)
-            .WithMany()
-            .HasForeignKey(e => e.IdPais2);
-
-            entidad.HasOne(e => e.Estadio)
-            .WithMany()
-            .HasForeignKey(e => e.IdEstadio);
-
-            entidad.HasOne(e => e.Fase)
-            .WithMany()
-            .HasForeignKey(e => e.IdFase);
-
-            entidad.HasOne(e => e.Campeonato)
-            .WithMany()
-            .HasForeignKey(e => e.IdCampeonato);
+            entidad.HasIndex(e => new {e.IdCampeonato, e.IdFase, e.IdPais1, e.IdPais2}).IsUnique();
+                entidad.HasOne<Seleccion>()
+                    .WithMany()
+                    .HasForeignKey(e => e.IdPais1);
+                entidad.HasOne<Seleccion>()
+                    .WithMany()
+                    .HasForeignKey(e => e.IdPais2);
+                entidad.HasOne<Fase>()
+                    .WithMany()
+                    .HasForeignKey(e => e.IdFase);
+                entidad.HasOne<Campeonato>()
+                    .WithMany()
+                    .HasForeignKey(e => e.IdCampeonato);
+                entidad.HasOne<Estadio>()
+                    .WithMany()
+                    .HasForeignKey(e => e.IdEstadio);               
             });
 
             //----------------------------------
