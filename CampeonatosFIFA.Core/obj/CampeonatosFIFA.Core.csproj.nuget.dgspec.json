@@ -11,7 +11,7 @@
         "projectName": "CampeonatosFIFA.Core",
         "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj",
         "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\obj\\",
+        "outputPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,7 +80,7 @@
         "projectName": "CampeonatosFIFA.Dominio",
         "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj",
         "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

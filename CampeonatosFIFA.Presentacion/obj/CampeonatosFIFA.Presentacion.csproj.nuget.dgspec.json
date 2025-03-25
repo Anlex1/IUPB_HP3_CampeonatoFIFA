@@ -11,7 +11,7 @@
         "projectName": "CampeonatoFIFA.Infraestructura.Repositorios",
         "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatoFIFA.Infraestructura.Repositorios\\CampeonatoFIFA.Infraestructura.Repositorios.csproj",
         "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatoFIFA.Infraestructura.Repositorios\\obj\\",
+        "outputPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatoFIFA.Infraestructura.Repositorios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -86,7 +86,7 @@
         "projectName": "CampeonatosFIFA.Aplicacion",
         "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Aplicacion\\CampeonatosFIFA.Aplicacion.csproj",
         "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Aplicacion\\obj\\",
+        "outputPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -161,7 +161,7 @@
         "projectName": "CampeonatosFIFA.Core",
         "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\CampeonatosFIFA.Core.csproj",
         "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\obj\\",
+        "outputPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -230,7 +230,7 @@
         "projectName": "CampeonatosFIFA.Dominio",
         "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj",
         "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -295,7 +295,7 @@
         "projectName": "CampeonatosFIFA.Persistencia",
         "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\CampeonatosFIFA.Persistencia.csproj",
         "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -370,7 +370,7 @@
         "projectName": "CampeonatosFIFA.Presentacion",
         "projectPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj",
         "packagesPath": "C:\\Users\\Natalia Zabaleta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Natalia Zabaleta\\Source\\Repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Presentacion\\obj\\",
+        "outputPath": "C:\\Users\\Natalia Zabaleta\\source\\repos\\IUPB_HP3_CampeonatoFIFA\\CampeonatosFIFA.Presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3,7 +3,7 @@
 
 namespace CampeonatosFIFA.Core.Servicios
 {
-    public interface ICampeonatoServivio
+    public interface ICampeonatoServicio
     {
         Task<IEnumerable<Campeonato>> ObtenerTodos();
         Task<Campeonato> Obtener(int Id);

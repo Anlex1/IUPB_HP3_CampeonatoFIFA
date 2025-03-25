@@ -1,4 +1,6 @@
-﻿using CampeonatosFIFA.Dominio.Entidades;
+﻿using CampeonatosFIFA.Dominio.DTOs;
+using CampeonatosFIFA.Dominio.Entidades;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using System;
@@ -25,6 +27,7 @@ namespace CampeonatosFIFA.Persistencia.Contexto
         public DbSet<Fase> Fases { get; set; }
         public DbSet<Grupo> Grupos { get; set; }
         public DbSet<GrupoPais> GruposPaises { get; set; }
+        public DbSet<TablaPosicionesDto> TablaPosicionesDtos{get; set;}
 
 
         protected override void OnModelCreating(ModelBuilder builder)
@@ -131,10 +134,19 @@ namespace CampeonatosFIFA.Persistencia.Contexto
                     .HasForeignKey(e => e.IdCampeonato);
                 entidad.HasOne<Estadio>()
                     .WithMany()
-                    .HasForeignKey(e => e.IdEstadio);               
+                    .HasForeignKey(e => e.IdEstadio);
+
+                builder.Entity<TablaPosicionesDto>()
+                .HasNoKey();
             });
 
             //----------------------------------
         }
+
+        public async Task<IEnumerable<TablaPosicionesDto>> ObtenerTablaPosicionesGrupo(int IdGrupo)
+        {
+            return await Set<TablaPosicionesDto>().FromSqlRaw("SELECT * FROM fTablaPosicionesGrupo(@IdGrupo) ORDER BY Puntos DESC",
+                new SqlParameter("@IdGrupo", IdGrupo)).ToListAsync();
+        } 
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CampeonatosFIFA.Core.Repositorios
 {
-    public interface ICiudadServivio
+    public interface ICiudadRepositorio
     {
         Task<IEnumerable<Ciudad>> ObtenerTodos();
         Task<Ciudad> Obtener(int Id);

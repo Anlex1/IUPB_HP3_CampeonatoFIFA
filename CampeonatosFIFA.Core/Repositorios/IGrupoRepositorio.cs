@@ -1,4 +1,5 @@
-﻿using CampeonatosFIFA.Dominio.Entidades;
+﻿using CampeonatosFIFA.Dominio.DTOs;
+using CampeonatosFIFA.Dominio.Entidades;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,5 +16,8 @@ namespace CampeonatosFIFA.Core.Repositorios
         Task<Grupo> Modificar(Grupo Grupo);
         Task<bool> Eliminar(int Id);
         Task<IEnumerable<Grupo>> Buscar(int Tipo, string Dato);
+        Task<IEnumerable<Grupo>> ObtenerCampeonato(int idCampeonato);
+
+       Task<IEnumerable<TablaPosicionesDto>> ObtenerTablaPosicionesGrupo(int IdGrupo);
     }
 }
