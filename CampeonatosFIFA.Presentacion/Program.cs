@@ -9,6 +9,18 @@ namespace CampeonatosFIFA.Presentacion
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            //CORS
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("PermitirAngular",
+                    policy =>
+                    {
+                        policy.WithOrigins("http://localhost:4200")
+                        .AllowAnyHeader()
+                        .AllowAnyMethod();
+                    });
+            });
+
             // Add services to the container.
             var configuracion = builder.Configuration;
 
@@ -29,6 +41,8 @@ namespace CampeonatosFIFA.Presentacion
             }
 
             app.UseHttpsRedirection();
+
+            app.UseCors("PermitirAngular");
 
             app.UseAuthorization();
 

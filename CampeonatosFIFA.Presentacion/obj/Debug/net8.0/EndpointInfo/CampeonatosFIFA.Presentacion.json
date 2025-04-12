@@ -2451,7 +2451,8 @@
           },
           "idPais": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           },
           "pais": {
             "$ref": "#/components/schemas/Seleccion"
